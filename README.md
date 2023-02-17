@@ -1,3 +1,5 @@
+A few overview screenshots have been included in "Functionality Screenshots"
+
 Introduction:
 
 This was a class project to build a messaging application, both the server-side and client-side applications. Demonstrating the use of socket programming and javafx services and threads.
